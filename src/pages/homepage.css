@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#pagefather {
+  display: flex;
+}
+.continer {
+  width: 30vw;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+.margin {
+  margin: 10px;
+}
